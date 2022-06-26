@@ -1,1 +1,2 @@
-### This folder contains all the Computer Organization and Architecture notes.
+### This folder contains Computer Organization and Architecture notes.
+
